@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pasta on NCSFood</title>
-    <link>http://localhost:1313/NCSFood/tags/pasta/</link>
+    <link>https://conman7x.github.io/NCSFood/tags/pasta/</link>
     <description>Recent content in Pasta on NCSFood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Connor and Nicole</copyright>
-    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/NCSFood/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conman7x.github.io/NCSFood/tags/pasta/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Next Door CBD</title>
-      <link>http://localhost:1313/NCSFood/posts/1754215546635-next-door-cbd/</link>
+      <link>https://conman7x.github.io/NCSFood/posts/1754215546635-next-door-cbd/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/NCSFood/posts/1754215546635-next-door-cbd/</guid>
+      <guid>https://conman7x.github.io/NCSFood/posts/1754215546635-next-door-cbd/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/NCSFood/posts/1754215546635-next-door-cbd/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://conman7x.github.io/NCSFood/posts/1754215546635-next-door-cbd/featured.jpeg" />
     </item>
     
   </channel>

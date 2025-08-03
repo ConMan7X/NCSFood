@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:1313/NCSFood/sitemap.xml
+Allow: /
+Sitemap: https://conman7x.github.io/NCSFood/sitemap.xml
