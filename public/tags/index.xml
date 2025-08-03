@@ -2,12 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NCSFood</title>
-    <link>https://conman7x.github.io/NCSFood/tags/</link>
+    <link>http://localhost:61933/NCSFood/tags/</link>
     <description>Recent content in Tags on NCSFood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Connor and Nicole</copyright>
-    <atom:link href="https://conman7x.github.io/NCSFood/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:61933/NCSFood/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Example</title>
+      <link>http://localhost:61933/NCSFood/tags/example/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:61933/NCSFood/tags/example/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tag</title>
+      <link>http://localhost:61933/NCSFood/tags/tag/</link>
+      <pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:61933/NCSFood/tags/tag/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
