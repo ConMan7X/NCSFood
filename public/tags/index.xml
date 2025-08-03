@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Connor and Nicole</copyright>
-    <atom:link href="https://conman7x.github.io/NCSFood/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://conman7x.github.io/NCSFood/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Italian</title>
+      <link>https://conman7x.github.io/NCSFood/tags/italian/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conman7x.github.io/NCSFood/tags/italian/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pasta</title>
+      <link>https://conman7x.github.io/NCSFood/tags/pasta/</link>
+      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://conman7x.github.io/NCSFood/tags/pasta/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

@@ -13,3 +13,4 @@ description = "Sydney food reviews"
 
 ["params.author"]
 name = "Connor and Nicole"
+image = "profile.png"
