@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on NCSFood</title>
-    <link>https://ncsfood.com/posts/</link>
-    <description>Recent content in Posts on NCSFood</description>
+    <title>Special Event on NCSFood</title>
+    <link>https://ncsfood.com/tags/special-event/</link>
+    <description>Recent content in Special Event on NCSFood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Connor and Nicole</copyright>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ncsfood.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ncsfood.com/tags/special-event/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Verandah Beecroft</title>
@@ -17,16 +17,6 @@
       <guid>https://ncsfood.com/posts/1755694128280-the-verandah-beecroft/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ncsfood.com/posts/1755694128280-the-verandah-beecroft/featured.png" />
-    </item>
-    
-    <item>
-      <title>Next Door CBD</title>
-      <link>https://ncsfood.com/posts/1754215546635-next-door-cbd/</link>
-      <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://ncsfood.com/posts/1754215546635-next-door-cbd/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ncsfood.com/posts/1754215546635-next-door-cbd/featured.jpeg" />
     </item>
     
   </channel>
