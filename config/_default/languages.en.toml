@@ -11,6 +11,9 @@ rtl = false
 dateFormat = "2 January 2006"
 description = "Sydney food reviews"
 
+[[params.author.links]]
+instagram = "https://www.instagram.com/ncs.food/"
+
 ["params.author"]
 name = "Connor and Nicole"
 image = "profile.png"
