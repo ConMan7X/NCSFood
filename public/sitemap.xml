@@ -3,25 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://ncsfood.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ncsfood.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ncsfood.com/posts/1755694128280-the-verandah-beecroft/</loc>
+    <loc>http://localhost:1313/posts/1755694128280-the-verandah-beecroft/</loc>
     <lastmod>2025-08-09T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://ncsfood.com/posts/1754215546635-next-door-cbd/</loc>
+    <loc>http://localhost:1313/posts/1754215546635-next-door-cbd/</loc>
     <lastmod>2025-07-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

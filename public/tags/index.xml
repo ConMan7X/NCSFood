@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NCSFood</title>
-    <link>https://ncsfood.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on NCSFood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Connor and Nicole</copyright>
-    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ncsfood.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bowlo</title>
-      <link>https://ncsfood.com/tags/bowlo/</link>
+      <link>http://localhost:1313/tags/bowlo/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ncsfood.com/tags/bowlo/</guid>
+      <guid>http://localhost:1313/tags/bowlo/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Special Event</title>
-      <link>https://ncsfood.com/tags/special-event/</link>
+      <link>http://localhost:1313/tags/special-event/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ncsfood.com/tags/special-event/</guid>
+      <guid>http://localhost:1313/tags/special-event/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Steak</title>
-      <link>https://ncsfood.com/tags/steak/</link>
+      <link>http://localhost:1313/tags/steak/</link>
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ncsfood.com/tags/steak/</guid>
+      <guid>http://localhost:1313/tags/steak/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Italian</title>
-      <link>https://ncsfood.com/tags/italian/</link>
+      <link>http://localhost:1313/tags/italian/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ncsfood.com/tags/italian/</guid>
+      <guid>http://localhost:1313/tags/italian/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pasta</title>
-      <link>https://ncsfood.com/tags/pasta/</link>
+      <link>http://localhost:1313/tags/pasta/</link>
       <pubDate>Wed, 30 Jul 2025 00:00:00 +0000</pubDate>
       
-      <guid>https://ncsfood.com/tags/pasta/</guid>
+      <guid>http://localhost:1313/tags/pasta/</guid>
       <description></description>
       
     </item>

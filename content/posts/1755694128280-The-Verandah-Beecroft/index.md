@@ -6,7 +6,7 @@ description: "A Birthday Dinner"
 tags: ["bowlo", "steak", "special event"]
 ---
 
-# The Verandah Beecroft
+![Steak dinner at bowling club](featured.jpeg)
 
 Amazing vibe and crowd for a bowling club, with a great bar and even special cocktails! The waiters were also very nice.
 

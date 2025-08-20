@@ -6,7 +6,7 @@ description: "Our first post!"
 tags: ["italian", "pasta"]
 ---
 
-# Next Door CBD
+![Pasta dinner at retaurant](featured.jpeg)
 
 A very centrally located but hidden restaurant, packed with a menu full of choice and taste.
 The food and drinks were all served extremely quickly and in perfect order that we were in and out of the door well within an hour.

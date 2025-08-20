@@ -32,11 +32,11 @@ showScrollToTop = true
 
 [homepage]
 layout = "profile"
-showRecent = false
-showRecentItems = 5
-showMoreLink = false
+showRecent = "yes"
+showRecentItems = "4"
+showMoreLink = true
 showMoreLinkDest = "/posts/"
-cardView = false
+cardView = "yes"
 cardViewScreenWidth = false
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
@@ -48,7 +48,7 @@ showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = true
-showHero = "yes"
+showHero = false
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
