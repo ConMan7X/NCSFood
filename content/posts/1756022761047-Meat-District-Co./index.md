@@ -9,11 +9,11 @@ tags: ["steak", "wine"]
 ![Steak dinner in Darling Harbour](featured.jpeg)
 
 Steak with a Darling Harbour View!
-Perfect location to get some drinks before and some Yo Chi after, and on Saturday like we experienced to see the fireworks!
+Perfect location to get drinks before and Yo Chi after, and on Saturday like we experienced to see the fireworks!
 
 The service was very nice, but seemed unpolished. It took a while to get our reserved table, we didn’t get a drinks menu, it took a while to order our drinks. But the food came out very quickly!
 
-Out of our two steaks, we both agreed that the Medallion was much nicer, a lot more juicy and flavourful. The Sirloin was fattier, but not a nice fat, it was very tough and a tiny bit overcooked.
+Out of our two steaks, we both agreed that the Medallion was much nicer, a lot more juicy and flavourful. The Sirloin was fattier, but not a nice fat, it was very tough and a tiny bit overcooked. The steak was placed on a cutting board with paper, this paper then became annoying when trying to cut the steak.
 
 The sides were a salad or chips, with the salad being very boring and not having enough dressing but the chips were nice.
 
