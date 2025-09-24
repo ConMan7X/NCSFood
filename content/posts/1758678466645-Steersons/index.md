@@ -27,8 +27,6 @@ held their own and stood out from other sides at other restaurants. Our other si
 were also very nice and flavourful and a nice change from our normal order of
 broccolini.
 
-**_Dessert_**
-
 Overall, we would say that Steersons was a very nice experience with a unique offering
 but we have had nicer steaks and nicer meals (for a cheaper price as well).
 
