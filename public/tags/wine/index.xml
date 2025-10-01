@@ -8,21 +8,26 @@
     <language>en</language>
     <copyright>© 2025 Connor and Nicole</copyright>
     <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/wine/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Steersons</title>
       <link>http://localhost:1313/posts/1758678466645-steersons/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/1758678466645-steersons/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1758678466645-steersons/featured.png" />
     </item>
+    
     <item>
       <title>Meat District Co.</title>
       <link>http://localhost:1313/posts/1756022761047-meat-district-co./</link>
       <pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+      
       <guid>http://localhost:1313/posts/1756022761047-meat-district-co./</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1756022761047-meat-district-co./featured.jpeg" />
     </item>
+    
   </channel>
 </rss>
