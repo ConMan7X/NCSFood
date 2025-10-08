@@ -7,12 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Connor and Nicole</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Special Event</title>
+      <link>http://localhost:1313/tags/special-event/</link>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/special-event/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Steak</title>
       <link>http://localhost:1313/tags/steak/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/steak/</guid>
       <description></description>
@@ -22,7 +32,7 @@
     <item>
       <title>Wine</title>
       <link>http://localhost:1313/tags/wine/</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/wine/</guid>
       <description></description>
@@ -35,16 +45,6 @@
       <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/bowlo/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Special Event</title>
-      <link>http://localhost:1313/tags/special-event/</link>
-      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/special-event/</guid>
       <description></description>
       
     </item>
